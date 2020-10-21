@@ -88,7 +88,7 @@ img {
     width: 50%;
     height: auto;
   }
-  
+
   #why .row img {
     padding: 15px;
   }
@@ -120,9 +120,5 @@ img {
   #why .row>.second,
   #why .row>.third {
     line-height: 30px;
-  }
-
-  .row .third {
-    margin-bottom: 0px;
   }
 }
