@@ -82,13 +82,13 @@ img {
     width: 100%;
     line-height: 30px;
     margin: 30px 0px;
-
   }
 
   img {
     width: 50%;
     height: auto;
   }
+  
   #why .row img {
     padding: 15px;
   }
