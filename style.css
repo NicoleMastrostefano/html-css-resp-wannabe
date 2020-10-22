@@ -77,6 +77,14 @@ img {
 
 @media screen and (max-width: 420px) {
 
+  body{
+    font-size: 20px;
+  }
+
+  body h3 {
+    font-size: 1.5em;
+  }
+  
   #lezioni .row>.left,
   #lezioni .row>.right {
     width: 100%;
@@ -91,14 +99,6 @@ img {
 
   #why .row img {
     padding: 15px;
-  }
-
-  body h3 {
-    font-size: 25px;
-  }
-
-  body h1 {
-    font-size: 35px;
   }
 
   .row {
